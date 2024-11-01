@@ -1,0 +1,17 @@
+.woocommerce ul.products .single_variation .price {
+	margin:0;
+	padding:10px 0px 0px 0px;
+	text-align:center;
+}
+.woocommerce ul.products table tbody tr td .reset_variations {
+    display: none!important;
+}
+.value select {
+	width:100%;
+}
+.variations tr .label {
+    padding-right: 8px;
+}
+.variations td {
+	padding-bottom: 4px;
+}
